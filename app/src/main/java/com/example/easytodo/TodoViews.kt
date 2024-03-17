@@ -1,4 +1,4 @@
-package com.example.easytodo
+package cc.narui.easytodo
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*

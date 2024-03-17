@@ -1,4 +1,4 @@
-package com.example.easytodo
+package cc.narui.easytodo
 
 import android.app.Application
 import android.content.Context

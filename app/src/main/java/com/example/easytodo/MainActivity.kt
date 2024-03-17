@@ -1,4 +1,4 @@
-package com.example.easytodo
+package cc.narui.easytodo
 
 
 import android.os.Bundle
@@ -9,8 +9,8 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.ViewModelProvider
-import com.example.easytodo.EasyToDoApp
-import com.example.easytodo.TodoViewModel
+import cc.narui.easytodo.EasyToDoApp
+import cc.narui.easytodo.TodoViewModel
 
 class MainActivity : ComponentActivity() {
     private val todoViewModel: TodoViewModel by lazy {
